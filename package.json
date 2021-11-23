@@ -1,0 +1,15 @@
+{
+  "name": "com.lurkingninja.createcs",
+  "displayName": "CreateCS",
+  "version": "0.0.1",
+  "unity": "2020.3",
+  "description": "C# template system for Unity.",
+  "documentationUrl": "https://lurking-ninja.com/createcs/",
+  "dependencies": {
+  },
+  "author": {
+    "name": "Lurking Ninja",
+    "email": "dev@lurking-ninja.com",
+    "url": "https://lurking-ninja.com/"
+  }
+}
